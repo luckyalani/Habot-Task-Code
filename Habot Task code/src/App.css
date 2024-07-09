@@ -40,3 +40,12 @@
 .bgimg{
   background-image: url('./Components/Images/backimg.png');
 }
+
+@media (min-width: 320px){
+
+  /* Paragraph */
+  .md\:items-start .logoandp p{
+   text-align:center;
+  }
+  
+ }
